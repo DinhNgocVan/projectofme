@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="622.0" prefWidth="276.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Subtext">
+   <children>
+      <Label layoutX="25.0" layoutY="185.0" text="Word" />
+      <TextField fx:id="wordTarget" layoutX="25.0" layoutY="212.0" />
+      <Label layoutX="25.0" layoutY="259.0" text="Meaning" />
+      <TextField fx:id="definition" layoutX="25.0" layoutY="288.0" />
+      <ImageView fitHeight="114.0" fitWidth="103.0" layoutX="161.0" layoutY="497.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@png/PinClipart.com_pokemon-clipart_334680.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

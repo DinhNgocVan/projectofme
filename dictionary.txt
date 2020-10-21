@@ -1,0 +1,561 @@
+abandon	từ bỏ
+able	có năng lực, có tài
+about	khoảng,về
+above	ở trên, lên trên
+act	hành động, cử chỉ
+add	cộng, thêm vào
+afraid	sợ hãi, hoảng sợ
+after	sau, sau khi
+again	lại, lần nữa
+age	tuổi
+agianst	chống lại, phản đối
+ago	trước đây
+agree	đồng ý
+air	không khí
+all	tất cả
+allow	cho phép, để cho
+also	cũng, cũng vậy
+always	luôn luôn
+among	ở giữa
+and	và
+anger	sự tức giận
+animal	động vật
+answer	trả lời, sự trả lời
+any	một người, vật nào đó
+appear	xuất hiện
+apple	táo
+area	diện tích
+arm	cánh tay, vũ trang
+arrange	sắp xếp, sửa soạn
+arrive	đến, tới nơi
+art	nghệ thuật
+ask	hỏi
+at	ở tại (chỉ vị trí)
+atom	nguyên tử
+baby	trẻ thơ
+back	lưng, trở lại
+bad	tồi, xấu
+ball	quả bóng
+band	băng, đai, nẹp
+bank	ngờ, đê, ngân hàng
+bar	quán bán rượu
+basis	cơ bản , cơ sở
+be	thì, là
+bear	mang, cầm
+beat	tiếng đập, đấm
+beauty	đẹp, vẻ đẹp
+bed	cái giường
+before	trước
+began	bắt đầu, mở đầu
+begin	mở đầu, khởi đầu
+belive	tin,tin tưởng
+bell	cái chuông
+best	tốt nhất
+big	to, lớn
+black	đen
+blue	màu xanh
+body	thân thể
+book	sách, ghi, đặt
+born	sinh
+bottom	cuối cùng
+bought	mua
+boy	con trai
+bread	bánh mỳ
+bright	sáng, sáng chói
+broke	hút thuốc
+brother	em trai, anh trai
+build	xây dựng
+busy	bận, bận rộn
+buy	mua
+call	gọi
+camp	cắm trại
+can	có thể, nhà giam
+capital	thủ đô, chủ yếu
+captain	người cầm đầu
+car	xe hơi
+card	thẻ
+care	quan tâm, chăm sóc
+cat	mèo
+catch	nắm lấy
+cause	nguyên nhân, gây nên
+cell	ô, ngăn
+center	ở giữa, trung tâm
+century	thế kỷ
+chair	ghế
+change	thay đổi
+character	tính cách, đặc tính
+check	kiểm tra
+chick	gà con
+children	đưá trẻ
+choose	chọn
+circle	hình tròn
+city	thành phố
+class	lớp
+clean	sạch sẽ
+climb	leo trèo
+clock	đồng hô
+close	đóng, che đậy
+clothe	quần áo
+cloud	đám mây
+cold	lạnh
+color	màu sắc
+come	đi tới
+company	công ty
+compare	so sánh , đối chiếu
+complete	hoàn thành
+condition	tình cảnh,  điều kiện
+connect	kết nối
+consider	để ý , quan tâm, xem xét
+contain	bao hàm
+continue	tiếp tục
+control	điều khiển, quyền lực
+cook	nấu ăn
+copy	bản sao, sao chép
+cost	giá
+country	nước, quốc gia, quê
+course	khóa học, tiến trình
+create	sáng tạo, tạo nên
+cry	khóc
+cut	cắt
+dad	bố
+dance	nhảy
+dark	bóng tối
+day	ngày, ban ngày
+dear	thân yêu
+decide	quyết định, giải quyết
+decimal	thập phân
+deep	sâu, khó lường
+degisn	thiết kế, phác thảo
+depend	phụ thuộc
+describe	miêu tả
+develop	phát triển, trình bày
+dictionary	từ điển
+die	chết, hy sinh
+distant	xa, cách
+divide	chia
+do	làm
+doctor	bác sỹ
+dog	chó
+door	cửa
+down	xuống
+dream	giấc mơ
+drink	đồ uống
+drive	lái xe
+dry	khô, cạn
+duck	con vịt
+each	mỗi
+early	sớm
+earth	trái đất
+eat	ăn
+electric	điện
+element	nguyên tố
+else	khác, nếu không
+end	khết thúc, giới hạn
+enemy	kẻ thù
+energy	năng lượng
+enough	đủ
+enter	đi vào
+equal	ngang, bằng
+eveninng	buổi chiều, tối
+every	mỗi, mọi
+exact	chính xác, đúng
+example	thí dụ
+except	trừ ra
+exercise	bài tập
+experiment	thí nghiệm
+eye	mắt
+face	mặt
+fact	việc, sự kiện
+fair	hợp lý, công bằng
+fall	rơi,ngã
+family	gia đình
+famous	nổi tiếng
+far	xa
+farm	trang trại
+fast	nhanh
+fat	béo
+father	bố
+favor	thiện ý ,quý mến
+feel	cảm thấy
+few	một ít
+final	cuối cùng, cuộc chung kết
+find	tìm thấy
+fine	giỏi, tốt
+finger	ngón tay
+finish	kết thúc, hoàn thành
+fire	lửa, đốt cháy
+first	đầu tiên
+fish	cá
+flat	bằng phẳng, dãy phòng
+flower	hoa, bông
+fly	bay
+follow	theo đuổi,theo,tiếp theo
+food	thức ăn
+for	cho , dành cho
+forward	về tương lai
+fraction	phân số
+free	miễn phí
+friend	người bạn
+from	từ
+full	đầy đủ
+fun	sự vui thích
+game	trò chơi
+garden	vườn
+general	chung, tổng
+gentle	hiền lành
+girl	con gái
+give	cho , biếu  , tặng
+glad	vui lòng
+go	đi
+gold	vàng
+good	tốt, hay, tuyệt
+great	to, lớn,vĩ đại
+group	nhóm
+guess	đoán, phỏng đoán
+guide	người hướng dẫn, dẫn đường
+half	nửa, phần chia đôi
+happen	xảy ra
+happy	vui vẻ, hạnh phúc
+hard	cứng, hà khắc, cố gắng hết sức
+have	có
+he	anh ấy
+head	chỉ huy, lãnh đạo, dẫn đầu
+hear	nghe
+heart	trái tim
+heavy	nặng
+hello	chào
+help	giúp đỡ
+here	ở đây
+hi	xin chào
+high	cao
+history	lịch sử
+home	nhà
+hot	nóng
+hour	giờ
+house	nhà
+how	thế nào, làm sao
+hurry	sự vội vàng,gấp rút
+i	tôi
+ice	băng, kem
+idea	ý tưởng
+if	nếu
+in	ở, trong, vào
+include	bao gồm, tính cả
+industry	công nghệ , kỹ nghệ
+insect	sâu bọ
+interest	sự thích thú, quan tâm
+invent	phát minh, sáng chế
+iron	sắt
+island	hòn đảo
+it	cái đó
+job	công việc
+join	gia nhập ,tham gia, nối
+joy	niềm vui
+jump	nhảy
+just	đúng, vừa đủ, chỉ
+keep	giữ
+key	chìa khóa
+kill	giết, tiêu diệt
+king	vua, quốc vương
+know	biết, hiểu biết
+lady	người yêu, vợ ,quý bà ,tiểu thư
+lake	hồ
+language	ngôn ngữ
+large	rộng , to , lớn
+last	lần cuối, sau cùng
+late	trễ, muộn
+laugh	cười, tiếng cười
+law	luật
+lay	xếp, đặt
+lead	lãnh đạo, dẫn dắt
+learn	học, nghiên cứu
+leave	bỏ đi, để lại
+left	bên trái
+length	chiều dài
+less	nhỏ bé, ít hơn
+let	cho phép
+letter	thư
+level	mức độ, cấp, bằng
+lie	nói dối, sự dối trá
+life	cuộc sống
+light	ánh sáng
+like	thích, như
+list	danh sách
+listen	nghe
+little	nhỏ,bé
+live	sống
+locate	định vị
+long	dài, xa, lâu
+look	nhìn
+lost	thua, mất
+love	yêu, thích
+low	thấp, bé, lùn
+lucky	may mắn
+machine	máy, máy móc
+made	làm, hoàn thành
+magnet	nam châm
+main	chính, chủ yếu
+main	đàn ông
+major	lớn , nhiều hơn
+make	làm, chế tạo
+manage	quản lý
+many	nhiều
+map	bản đồ
+market	chợ
+master	chủ , chủ nhân
+match	trận thi đấu, đối thủ
+mean	nghĩa
+meat	thịt
+meet	gặp gỡ
+metal	kim loại
+milk	sữa
+million	triệu
+miss	cô gái
+modern	hiện đại
+moment	chốc, lát
+money	tiền
+moon	mặt trăng
+more	nhiều hơn
+morning	buổi sáng
+mother	mẹ
+mountain	núi
+move	di chuyển, chuyển động
+much	nhiều, lắm
+music	âm nhạc
+my	cuả tôi
+name	tên
+natural	tự nhiên
+near	gần
+necessary	cần, cần thiết
+need	cần, đòi hỏi
+neighborhood	hàng xóm
+never	không bao giờ
+new	mới
+next	sát, gần, lần sau
+night	đêm, tối
+no	không
+noise	tiếng ồn
+north	hướng bắc
+note	lời ghi, ghi chú
+nothing	không gì
+notice	thông báo
+now	bây giờ
+number	số
+object	vật, phản đối
+occur	xảy ra
+ocean	đại dương
+of	của
+off	tắt, khỏi
+office	cơ quan, văn phòng
+oil	dầu
+old	già
+only	duy nhất
+open	mở
+operate	hoạt động
+orange	cam
+order	thứ , ra lệnh
+original	nguồn gốc
+other	khác
+our	của chúng ta
+out	ra ngoài
+page	trang
+pair	cặp, đôi
+paragraph	đoạn văn
+parent	cha mẹ
+part	phần, bộ phận
+particular	riêng biệt, cá biệt
+party	tiệc, liên hoan, đảng
+pass	qua, ngang qua, mật khẩu
+past	quá khứ
+path	hướng đi
+pay	trả, thanh toán
+people	người, dân tộc
+person	con người
+picture	bức vẽ
+place	nơi, địa điểm
+planet	hành tinh
+play	chơi
+please	làm vui lòng, vui lòng
+point	điểm
+poor	nghèo
+popular	thịnh hành, phổ biến
+power	khả năng, tài năng
+pretty	khá, xinh xắn
+print	in, xuất bản
+private	riêng tư
+problem	vấn đề
+process	quá trình
+produce	sản xuất, chế tạo
+product	sản phẩm
+protect	bảo vệ, che chở
+public	công cộng
+put	đặt, để
+question	câu hỏi, chất vấn
+quick	nhanh
+quiet	lặng, yên tĩnh
+quite	hoàn thành, hầu hết
+radio	sóng vô tuyến, radio
+radius	bán kính
+rain	mưa
+raise	nâng lên , đưa lên
+read	đọc
+ready	sẵn sàng
+real	thực, thực tế, có thật
+reason	lý do , lý lẽ
+record	bản ghi, thu
+red	màu đỏ
+remember	nhớ
+reply	sự trả lời, hồi âm
+require	đòi hỏi, yêu cầu
+result	kết quả
+rich	giàu
+right	phải, thẳng, tốt
+ring	chiếc nhẫn
+rise	sự tăng lương
+river	sông
+rock	đá
+roll	cuốn, cuộn
+room	phòng
+round	trong, vòng quanh
+run	chạy
+rêpat	nhắc lại, lặp lại
+safe	an toàn, chắc chăn
+same	giống, đều đều
+sat	ngồi
+save	cứu, lưu
+say	nói
+school	trường
+science	khoa học
+search	tìm kiếm
+season	mùa
+seat	ghế, chỗ ngồi
+see	nhìn thấy
+sell	bán
+send	gửi
+separate	khác nhau, riêng biệt
+serve	phục vụ
+set	đặt, bố trí
+shape	đóng góp, tham gia
+she	cô ấy
+shine	tỏa sáng
+ship	tàu, tàu thủy
+shop	cửa hàng
+short	ngắn,cụt
+show	biểu điễn
+similar	giống như
+simple	đơn giản, dễ dàng
+since	từ, từ khi
+sing	ca hát
+single	đơn, đơn độc
+sister	chị gái, em gái
+sit	ngồi
+size	cỡ
+skill	kỹ năng
+skin	da, vỏ
+sleep	ngủ, giấc ngủ
+small	nhỏ bé
+smile	mỉm cười
+snow	tuyết
+so	vì vậy, như vậy
+solution	sự giải quyết, giải pháp
+some	một vài
+sound	âm thanh, nghe
+speak	nói
+special	đặc biệt
+speed	tốc độ
+spell	đánh vẫn
+spend	tiêu, xài
+spring	mùa xuân
+square	vuông
+stand	đứng
+star	sao,ngôi sao
+station	trạm, điểm, đồn
+stay	ở lại
+still	đứng yên, vẫn còn
+stop	dừng lại
+store	cửa hàng
+story	câu chuyện
+straight	thẳng
+stream	dòng suối
+street	phố, đường phố
+string	chuỗi, sợi dây
+strong	khỏe mạnh
+student	học sinh
+study	sự học tập
+subject	chủ đề, chủ ngữ
+substance	chất liệu, nội dung
+success	thành công
+sugar	đường
+summer	mùa hè
+sun	mặt trời
+supply	cung cấp
+sure	chắc chắn
+swim	bơi lội
+system	hệ thống, chế độ
+table	cái bàn
+tail	đuôi, đoạn cuối
+take	nắm, sự lấy
+talk	nói chuyện , cuộc trò chuyện
+team	nhóm, đội
+term	giới hạn, kỳ hạn, khóa học
+test	kiểm tra
+than	hơn
+thank	cám ơn
+they	họ
+think	nghĩ, suy nghĩ
+thousand	nghìn
+time	thời gian
+tire	mệt mỏi
+to	theo hướng, tới
+together	cùng nhau
+too	cũng
+tool	dụng cụ
+top	chóp, đỉnh
+total	tổng cộng, toàn bộ
+track	phần đĩa cứng
+train	xe lửa
+travel	du lịch
+tree	cây
+triangle	hình tam giác
+true	đúng, thật
+try	thử, cố gắng
+type	loại, kiểu,, mẫu
+under	dưới
+unit	đơn vị
+until	trước khi
+use	dùng, sử dụng
+value	giá trị
+very	rất, lắm
+view	tầm nhìn, khung cảnh
+village	làng, xã
+visit	đến thăm
+voice	tiếng, giọng nói
+wait	đợi
+walk	đi, đi bộ
+want	muốn
+war	chiến tranh
+warm	ấm áp
+watch	nhìn, xem
+water	nước
+we	chúng tôi
+weather	thời tiết
+week	tuần 
+well	tốt, giỏi
+win	thắng
+wind	gió
+window	cửa sổ
+winter	mùa đông
+wish	mong muốn
+with	với
+wonder	ngạc nhiên
+word	từ
+work	việc làm
+world	thế giới
+write	viết
+year	năm
+yellow	vàng
+yes	được, vâng
+young	trẻ
+zero	số 0
+zone	khu vực , vùng miền
+zoom	thu phóng

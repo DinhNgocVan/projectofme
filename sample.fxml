@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="728.0" prefWidth="922.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+    <children>
+        <BorderPane prefHeight="732.0" prefWidth="922.0">
+            <top>
+                <HBox prefHeight="58.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+                    <children>
+                        <ImageView fitHeight="80.0" fitWidth="155.0" pickOnBounds="true" preserveRatio="true">
+                            <image>
+                                <Image url="@png/pngegg.png" />
+                            </image>
+                            <HBox.margin>
+                                <Insets left="6.0" />
+                            </HBox.margin>
+                        </ImageView>
+                        <TextField fx:id="search" prefHeight="45.0" prefWidth="526.0">
+                            <HBox.margin>
+                                <Insets bottom="5.0" left="25.0" right="5.0" top="18.0" />
+                            </HBox.margin>
+                            <padding>
+                                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                            </padding>
+                        </TextField>
+                        <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
+                            <image>
+                                <Image url="@png/005-search.png" />
+                            </image>
+                            <HBox.margin>
+                                <Insets left="6.0" top="18.0" />
+                            </HBox.margin>
+                        </ImageView>
+                  <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@png/017-music.png" />
+                     </image>
+                     <HBox.margin>
+                        <Insets left="10.0" top="18.0" />
+                     </HBox.margin>
+                  </ImageView>
+                        <ImageView fitHeight="50.0" fitWidth="50.0" onMouseClicked="#pressToDelete" pickOnBounds="true" preserveRatio="true">
+                            <HBox.margin>
+                                <Insets left="10.0" top="18.0" />
+                            </HBox.margin>
+                            <image>
+                                <Image url="@png/028-forbidden.png" />
+                            </image>
+                        </ImageView>
+                        <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
+                            <image>
+                                <Image url="@png/004-configuration.png" />
+                            </image>
+                            <HBox.margin>
+                                <Insets left="10.0" top="18.0" />
+                            </HBox.margin>
+                        </ImageView>
+                    </children>
+                </HBox>
+            </top>
+            <left>
+                <VBox prefHeight="648.0" prefWidth="73.0" BorderPane.alignment="CENTER">
+                    <children>
+                        <ImageView fitHeight="50.0" fitWidth="50.0" onMouseClicked="#pressToAdd" pickOnBounds="true" preserveRatio="true">
+                            <VBox.margin>
+                                <Insets left="11.0" top="35.0" />
+                            </VBox.margin>
+                            <image>
+                                <Image url="@png/001-upload.png" />
+                            </image>
+                        </ImageView>
+                        <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
+                            <VBox.margin>
+                                <Insets left="11.0" top="10.0" />
+                            </VBox.margin>
+                            <image>
+                                <Image url="@png/022-contact-book.png" />
+                            </image>
+                        </ImageView>
+                        <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
+                            <image>
+                                <Image url="@png/012-bookmark.png" />
+                            </image>
+                     <VBox.margin>
+                        <Insets left="10.0" top="10.0" />
+                     </VBox.margin>
+                        </ImageView>
+                  <ImageView fitHeight="50.0" fitWidth="50.0" onMouseClicked="#goBack" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@png/026-settings.png" />
+                     </image>
+                     <VBox.margin>
+                        <Insets left="10.0" top="10.0" />
+                     </VBox.margin>
+                  </ImageView>
+                    </children>
+                </VBox>
+            </left>
+            <right>
+                <VBox prefHeight="617.0" prefWidth="563.0" BorderPane.alignment="CENTER">
+                    <children>
+                  <TextArea fx:id="meaning" prefHeight="624.0" prefWidth="563.0" />
+                    </children>
+                </VBox>
+            </right>
+            <center>
+                <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+                    <children>
+                        <ScrollPane prefHeight="649.0" prefWidth="288.0">
+                            <content>
+                                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="621.0" prefWidth="281.0">
+                                    <children>
+                                        <ListView fx:id="listView" layoutX="1.0" prefHeight="622.0" prefWidth="276.0" />
+                                    </children>
+                                </AnchorPane>
+                            </content>
+                        </ScrollPane>
+                    </children>
+                </VBox>
+            </center>
+        </BorderPane>
+    </children>
+</VBox>
